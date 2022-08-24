@@ -1,4 +1,3 @@
-import { bindActionCreators } from "redux";
 import { dataShoe } from "../../Data_shoe";
 import {
   ADD_TO_CART,
